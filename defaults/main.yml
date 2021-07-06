@@ -1,0 +1,6 @@
+---
+
+vault_chart_version: 0.13.0
+vault_image: hashicorp/vault-enterprise
+vault_tag: 1.7.1_ent
+vault_namespace: vault
